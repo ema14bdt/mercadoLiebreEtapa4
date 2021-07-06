@@ -186,6 +186,10 @@ footer p {
       width: 33vw;
    }
 
+   .top-header {
+      margin-left: 1.5rem;
+   }
+
    header ul {
       list-style: none;
       padding: 0px;
@@ -233,9 +237,8 @@ footer p {
       position: relative;
    }
 
-   img {
-      width: 80%;
-      margin-left: 2rem;
+   .caja_logo {
+      width: 100%;
    }
 
    .product h4 {
